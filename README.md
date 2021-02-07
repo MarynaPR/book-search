@@ -4,7 +4,7 @@
 
 This code features a fully functioning Google Books API search engine refactored with GraphQL API built with Apollo Server. The app is built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
-The project is deployed to [Heroku.](https://salty-earth-96269.herokuapp.com/)
+The project is deployed to [Heroku.](https://pacific-lake-24075.herokuapp.com/)
 
 #### Screenshots :camera_flash:
 ![screenshot](./client/src/images/Screenshot.png)
